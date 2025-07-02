@@ -1,3 +1,4 @@
+# Project1
 # Arithmetic Operations
 # Objectve: Build a small program that allows the user to choose from a menu and perform different geometry calculations.
 import math
@@ -37,7 +38,7 @@ else:
 
 
 
-
+# Project2
 # Quiz_Game
 
 user = input("What is the fastest land animal?: ")
@@ -215,6 +216,7 @@ elif score10 <= 55:
 #     print(f"You got {score1} out of 10")
 
 
+# Project3
 # Calculator
 operations = ["+", "-", "*", "/"]
 while True:
